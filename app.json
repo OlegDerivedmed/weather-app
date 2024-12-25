@@ -24,7 +24,8 @@
       "favicon": "./assets/favicon.png"
     },
     "test": {
-        "id": "123"
+        "id": "123",
+	"name": "olejka"
     }
   }
 }
